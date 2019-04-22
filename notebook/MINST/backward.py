@@ -3,6 +3,9 @@ from tensorflow.examples.tutorials.mnist import input_data
 import forward
 import os
 
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '1'
+
+
 BATCH_SIZE = 200
 LEARNING_RATE_BASE = 0.1
 LEARNING_RATE_DECAY = 0.99

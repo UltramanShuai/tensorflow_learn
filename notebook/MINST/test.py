@@ -3,6 +3,9 @@ import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 import forward
 import backward
+import os
+
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '1'
 TEST_INTERVAL_SECS = 5
 
 
