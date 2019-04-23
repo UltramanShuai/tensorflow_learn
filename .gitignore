@@ -5,3 +5,5 @@ notebook/MINST/.ipynb_checkpoints/
 notebook/first_full/.ipynb_checkpoints/
 notebook/try_gpu/.ipynb_checkpoints/
 notebook/MINST/model/
+notebook/lenet5_MINST/model/
+notebook/lenet5_MINST/__pycache__/
