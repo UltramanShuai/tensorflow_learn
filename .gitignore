@@ -7,6 +7,6 @@ notebook/try_gpu/.ipynb_checkpoints/
 notebook/MINST/model/
 notebook/lenet5_MINST/model/
 notebook/lenet5_MINST/__pycache__/
-notebook/vgg/vgg16.npy
-notebook/vgg/vgg16.pyc
-notebook/vgg/__pycache__/
+notebook/vgg16/vgg16.npy
+notebook/vgg16/vgg16.pyc
+notebook/vgg16/__pycache__/
